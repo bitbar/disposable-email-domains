@@ -66,6 +66,7 @@
 1fsdfdsfsdf.tk
 1heizi.com
 1mail.ml
+1mail.site
 1pad.de
 1secmail.com
 1secmail.net
@@ -301,12 +302,14 @@ air2token.com
 airmailbox.website
 airsi.de
 ajaxapp.net
+akaff.com
 akanbox.com
 akapost.com
 akapple.com
 akerd.com
 akgq701.com
 akmail.in
+akoption.com
 albionwe.us
 alchemywe.us
 alexbtz.com
@@ -490,6 +493,7 @@ axiz.org
 axon7zte.com
 axsup.net
 ayakamail.cf
+ayw.frequiry.com
 azazazatashkent.tk
 azcomputerworks.com
 azmeil.tk
@@ -589,6 +593,7 @@ bnote.com
 boatmail.us
 bobmail.info
 bobmurchison.com
+bodeem.com
 boersy.com
 bofthew.com
 boldhut.com
@@ -952,6 +957,7 @@ desoz.com
 despam.it
 despammed.com
 detectu.com
+devang.dev
 developermail.com
 dev-null.cf
 dev-null.ga
@@ -1446,6 +1452,7 @@ fir.hk
 firmjam.com
 fironia.com
 firste.ml
+firstmailer.com
 fitnesrezink.ru
 fitwl.com
 fitzola.com
@@ -1730,6 +1737,7 @@ gruz-m.ru
 gs-arc.org
 gsredcross.org
 gsrv.co.uk
+gss.spymail.one
 gsxstring.ga
 gudanglowongan.com
 guerillamail.biz
@@ -1881,6 +1889,7 @@ huskion.net
 huvacliq.com
 hvastudiesucces.nl
 hwsye.net
+hy-connect.com
 hype68.com
 hyprhost.com
 hypteo.com
@@ -3021,6 +3030,7 @@ onewaymail.com
 oniecan.com
 onitopia.com
 onlatedotcom.info
+onlcool.com
 onlinecmail.com
 onlineidea.info
 online.ms
@@ -3296,6 +3306,7 @@ rbb.org
 rcasd.com
 rcpt.at
 rdklcrv.xyz
+rdvi.zeroe.ml
 reality-concept.club
 reallymymail.com
 realtyalerts.ca
@@ -3565,6 +3576,7 @@ smwg.info
 snakemail.com
 snapboosting.com
 snapwet.com
+sneakar.co
 sneakmail.de
 snece.com
 snowlash.com
@@ -3679,6 +3691,7 @@ sperma.cf
 spikio.com
 spindl-e.com
 spinwinds.com
+spiral-scratch.com
 splitparents.com
 spoofmail.de
 sportizi.com
@@ -3993,6 +4006,7 @@ tormail.org
 tormails.com
 toss.pw
 tosunkaya.com
+totalaccess-scaffolding.co.uk
 totallynotfake.net
 totalvista.com
 totesmail.com
@@ -4299,6 +4313,7 @@ web-inc.net
 webm4il.info
 webmail24.top
 web-mail.pp.ua
+webonoid.com
 webtrip.ch
 webuser.in
 wedbo.net
