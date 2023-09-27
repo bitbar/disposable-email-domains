@@ -496,6 +496,7 @@ altdesign.info
 altitudewe.us
 altpano.com
 altuswe.us
+alvisani.com
 amadamus.com
 amadeuswe.us
 amail1.com
@@ -878,6 +879,7 @@ bomoads.com
 bongcs.com
 bonobo.email
 boofx.com
+bookspre.com
 bookthemmore.com
 bootybay.de
 boranora.com
@@ -931,6 +933,7 @@ btc.email
 btc-mail.net
 btcmail.pw
 btcmod.com
+Btcmod.com
 btizet.pl
 btkylj.com
 btsese.com
@@ -965,6 +968,7 @@ burnthespam.info
 burstmail.info
 busantei.com
 bushdown.com
+Bushdown.com
 busibess.com
 businessbackend.com
 businesssource.net
@@ -1038,6 +1042,7 @@ cazlv.com
 cbair.com
 cbdious.com
 cbes.net
+cbnd.online
 cbtenants.com
 cchancesg.com
 cc.liamria
@@ -1530,6 +1535,7 @@ dncnews24.com
 dndent.com
 dni8.com
 dnitem.com
+dnitem.com.
 dnses.ro
 doanart.com
 dob.jp
@@ -1606,6 +1612,7 @@ drmail.in
 dr-mail.net
 drmail.net
 dronetz.com
+dronetz.com.
 droolingfanboy.de
 dropcake.de
 dropjar.com
@@ -1620,6 +1627,7 @@ dshfjdafd.cloud
 dsiay.com
 dspwebservices.com
 duam.net
+ducenc.com
 duck2.club
 dudmail.com
 duetube.com
@@ -1863,6 +1871,7 @@ erp-lawyers.com
 error57.com
 esadverse.com
 esbano-ru.ru
+esbuah.nl
 escapehatchapp.com
 esc.la
 ese.kr
@@ -1932,6 +1941,7 @@ ez.lv
 ezmail.top
 ezpara.com
 ezstest.com
+eztam.nl
 ezztt.com
 f1xm.com
 f4k.es
@@ -2016,6 +2026,7 @@ fazdnetc.com
 fazmail.net
 fbeaveraqb.com
 fbma.tk
+fca-nv.cf
 fcplanned.com
 fddns.ml
 fdfdsfds.com
@@ -2339,6 +2350,7 @@ girlonthesharpend.com
 girlsindetention.com
 girlsundertheinfluence.com
 girtipo.com
+Girtipo.com
 gishpuppy.com
 giveh2o.info
 givememail.club
@@ -2599,6 +2611,7 @@ hiddentragedy.com
 hidebox.org
 hidebusiness.xyz
 hideemail.net
+hidekiishikawa.art
 hidemail.de
 hide-mail.net
 hidemail.pro
@@ -2897,6 +2910,7 @@ ipniel.com
 ipnuc.com
 ipoo.org
 ippals.com
+ippals.com.
 ippandansei.tk
 ipsur.org
 iquantumdg.com
@@ -3104,13 +3118,16 @@ kellychibale-researchgroup-uct.com
 kelvinfit.com
 kembs.com
 kembung.com
+KEMBUNG.COM
 kemptvillebaseball.com
 kennedy808.com
 kennyet.com
 kentholdings.co.uk
+kepointer.com
 keppmi.igg.biz
 keshitv.com
 kespear.com
+ketapangkab.go.id
 ketchet.com
 kevingoff.com
 kewip.com
@@ -3323,6 +3340,7 @@ lhsdv.com
 lhzoom.com
 liamcyrus.com
 liaphoto.com
+Liaphoto.com
 lidely.com
 lidte.com
 lieboe.com
@@ -3502,11 +3520,13 @@ mail.by
 mail-card.com
 mail-card.net
 mail.carsik.com
+MAIL.CARSIK.COM
 mail-cart.com
 mailcat.biz
 mailcatch.com
 mail.ceoshub.com
 mail.chobler.com
+Mail.chobler.com
 mail.chodyi.com
 mailchop.com
 mailcker.com
@@ -3514,6 +3534,7 @@ mail-click.net
 mailcupp.com
 mail.cyou
 mail-data.net
+mail-data.net.
 mail.daum.net.beo.kr
 mail.daum.net.efo.kr
 mail.daum.net.gok.kr
@@ -3535,6 +3556,7 @@ maildrop.cf
 maildrop.ga
 maildrop.gq
 maildrop.ml
+mail.ducenc.com
 maildu.de
 maildx.com
 mail-easy.fr
@@ -3613,9 +3635,11 @@ mailinator.net
 mailinator.org
 mailinator.us
 mailincubator.com
+mail.ippals.com.
 mailismagic.com
 mailita.tk
 mail.ivsao.com
+Mail.ivsao.com
 mailivw.com
 mailjunk.cf
 mailjunk.ga
@@ -3636,12 +3660,14 @@ mail-line.net
 maillink.in
 maillink.live
 maillist.in
+mail.lureens.com
 mail-maker.net
 mailmate.com
 mailme24.com
 mailme.gq
 mail.meidecn.com
 mailme.ir
+mail.meldram.com
 mailme.lv
 mailmetrash.com
 mailmink.com
@@ -3663,6 +3689,7 @@ mailnesia.com
 mailnest.net
 mailnet.top
 mail.nexwp.com
+mail.nickolis.com
 mailnow2.com
 mailnowapp.com
 mail-now.top
@@ -3683,12 +3710,14 @@ mailox.fun
 mail.oyu.kr
 mail.ozatvn.com
 mailpick.biz
+mail.picvw.com
 mailpkc.com
 mailpluss.com
 mail-point.net
 mailpooch.com
 mailpoof.com
 mail.powmatic.com
+Mail.powmatic.com
 mailpress.gq
 mailprotech.com
 mailproxsy.com
@@ -3702,6 +3731,7 @@ mailrnl.com
 mailrock.biz
 mail.rolmis.com
 mailroyal.net
+Mailroyal.net
 mailrunner.net
 mailsac.com
 mail.sancamap.com
@@ -3740,6 +3770,7 @@ mailtothis.com
 mailtouiq.com
 mailtraps.com
 mailtrash.net
+mail.trazeco.com
 mailtrix.net
 mailt.top
 mailtv.net
@@ -3748,6 +3779,7 @@ mail.ulforex.com
 mailuniverse.co.uk
 mail.upshopt.com
 mailvat.com
+mail.vikinoko.com
 mailvk.net
 mailvxin.net
 mail.vydda.com
@@ -4036,6 +4068,7 @@ mxclip.com
 mxfuel.com
 mxgsby.com
 mx.mail-data.net
+mx.mail-data.net.
 mx-post.kiworegony.com
 my10minutemail.com
 my6com.com
@@ -4107,6 +4140,7 @@ nalafx.com
 naluzotan.com
 namirapp.com
 nando1.com
+nanividia.art
 nanonym.ch
 napalm51.igg.biz
 nasigoreng.buzz
@@ -4252,6 +4286,7 @@ nomail.ga
 nomail.pw
 nomorespamemails.com
 nonicamy.com
+Nonicamy.com
 nonspam.eu
 nonspammer.de
 nonze.ro
@@ -4453,6 +4488,7 @@ ordinaryamerican.net
 oreidresume.com
 orgmbx.cc
 orgria.com
+orinmail.com
 oriwijn.com
 orkut.org
 orlydns.com
@@ -4490,6 +4526,7 @@ ovpn.to
 owleyes.ch
 owlpic.com
 ownsyou.de
+oxcel.art
 oxiburn.com
 oxkrqdecor.com
 oxopoha.com
@@ -4642,6 +4679,7 @@ porsh.net
 posdz.com
 postacin.com
 posta.store
+postingan.id
 postonline.me
 potobx.com
 poutineyourface.com
@@ -4758,6 +4796,7 @@ pw.rs6.igg.biz
 pw.shitt.igg.biz
 pxeneu.xyz
 pxjtw.com
+Pxjtw.com
 pyadu.com
 pyrelle.com
 qacmemphis.com
@@ -4865,6 +4904,7 @@ rbb.org
 rbitz.net
 rbiwc.com
 rc3s.com
+rc3s.com.
 rcasd.com
 rcescolar.org
 rcpt.at
@@ -4942,6 +4982,7 @@ riders.basketball
 ridteam.com
 rifkian.ga
 rika0525.com
+rioh.dev
 rippb.com
 rirre.com
 riseuo.net
@@ -5099,11 +5140,13 @@ sdvft.com
 sdvgeft.com
 sdvrecft.com
 sdysofa.com
+Sdysofa.com
 seacob.com
 searpen.com
 seatto.com
 seberkd.com
 secbuf.com
+SECBUF.COM
 secmail.pw
 secretemail.de
 secured-link.net
@@ -5128,6 +5171,7 @@ sendfree.org
 sendingspecialflyers.com
 sendnow.win
 sendspamhere.com
+sennic.com
 senseless-entertainment.com
 seo-mailer.com
 seomail.net
@@ -5324,6 +5368,7 @@ soodmail.com
 soodomail.com
 soodonims.com
 soombo.com
+soombo.com.
 soon.it
 soowz.com
 sophso.com
@@ -5411,6 +5456,7 @@ spamwc.ga
 spamwc.gq
 spamwc.ml
 sparkroi.com
+sparkroi.com.
 specialistblog.com
 speedgaus.net
 sperma.cf
@@ -5424,6 +5470,7 @@ splitparents.com
 spoofmail.de
 sportizi.com
 sportrid.com
+sportrid.com.
 sprada.combub.com
 sprinkr.com
 spr.io
@@ -5534,6 +5581,7 @@ sutsche.com
 svcache.com
 svglaser.com
 svip520.cn
+svipzh.com
 svk.jp
 svpmail.com
 svxr.org
@@ -5570,6 +5618,7 @@ tahuisi.buzz
 tai789.fun
 taikz.com
 tajwork.com
+talbotsh.com
 talkinator.com
 tamthoitrang.com
 tan9595.com
@@ -5723,6 +5772,7 @@ thediamants.org
 thedirhq.info
 theeasymail.com
 theeyeoftruth.com
+thehome.biz.id
 thehudsonfamily.org.uk
 thejoker5.com
 thelightningmail.net
@@ -5938,6 +5988,7 @@ trejni.com
 trelatesd.com
 trend-maker.ru
 trendtivia.com
+trenkita.com
 trfon.org
 trgfu.com
 trgovinanaveliko.info
@@ -6107,6 +6158,7 @@ uxdes54.com
 uxsolar.com
 uyhip.com
 v1zw.com
+v1zw.com.
 v2ssr.com
 v3dev.com
 vaaks.com
@@ -6282,6 +6334,7 @@ walmartpharm.com
 walmarttonlines.com
 wankedy.com
 wanko.be
+waotao.com
 wartrolreviewssite.info
 w-asertun.ru
 wataoke.com
@@ -6385,6 +6438,7 @@ whatpaas.com
 whatsaas.com
 whcosts.com
 whecode.com
+Whecode.com
 whiffles.org
 whipjoy.com
 whitealligator.info
@@ -6690,6 +6744,7 @@ yedi.org
 yeezus.ru
 yehudabx.com
 yektara.com
+Yektara.com
 yellow.igg.biz
 yep.it
 yermail.net
