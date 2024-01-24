@@ -1,6 +1,6 @@
 # Disposable email domains
 
-This repo contains list of disposable email domains.
+This repository contains list of disposable email domains.
 
 ## Add new domains
 1. Add new lines to domains.txt
